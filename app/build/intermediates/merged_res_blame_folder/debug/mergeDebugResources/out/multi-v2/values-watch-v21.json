@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.crypttao.shareqr.app-mergeDebugResources-29:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/user/.gradle/caches/transforms-4/14d6d13d2723718b3f60c809e7f83284/transformed/appcompat-1.7.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

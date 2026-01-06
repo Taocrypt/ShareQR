@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-mergeDebugResources-30:/layout/activity_share_qr.xml",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/layout/activity_share_qr.xml"
+    },
+    {
+        "merged": "com.crypttao.shareqr.app-mergeDebugResources-30:/layout/activity_share_qr.xml",
+        "source": "com.crypttao.shareqr.app-main-33:/layout/activity_share_qr.xml"
+    }
+]

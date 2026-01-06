@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ShareQR" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+    
+        <!-- App base theme (not used for launcher) -->
+    </style>
+
+    <style name="Theme.ShareQR.Dialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="shapeAppearanceMediumComponent">@style/Shape.Round.Medium</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- Blur behind (API 31+) set programmatically; keep transparent here -->
+    </style>
+    <style name="Shape.Round.Medium" parent="ShapeAppearance.Material3.Corner.Medium" />
+</resources>

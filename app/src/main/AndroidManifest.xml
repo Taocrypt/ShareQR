@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:name=".ShareQrApp"
+        android:allowBackup="true"
+        android:label="ShareQR"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShareQR">
+
+        <!-- Share target Activity: no LAUNCHER category, so no desktop icon -->
+        <activity
+            android:name=".ShareQrActivity"
+            android:exported="true"
+            android:theme="@style/Theme.ShareQR.Dialog">
+            <!-- 接收一切分享内容（文本/文件/链接等） -->
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

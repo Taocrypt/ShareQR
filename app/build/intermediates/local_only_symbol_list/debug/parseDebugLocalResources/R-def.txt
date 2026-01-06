@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_bg
+drawable bg_dialog_card
+drawable ic_launcher
+drawable ic_launcher_foreground
+drawable ic_launcher_foreground_png
+id blurLayer
+id btnSave
+id dialogContainer
+id ivQr
+id progress
+id rootOverlay
+id tvCopied
+layout activity_share_qr
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+string app_name
+style Shape.Round.Medium
+style Theme.ShareQR
+style Theme.ShareQR.Dialog

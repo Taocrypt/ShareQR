@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_bg">#FFFFFF</color>
+    <string name="app_name">ShareQR</string>
+    <style name="Shape.Round.Medium" parent="ShapeAppearance.Material3.Corner.Medium"/>
+    <style name="Theme.ShareQR" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">false</item>
+    
+        
+    </style>
+    <style name="Theme.ShareQR.Dialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="shapeAppearanceMediumComponent">@style/Shape.Round.Medium</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        
+    </style>
+</resources>

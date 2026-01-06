@@ -1,0 +1,5 @@
+# Ignore build and gradle files
+/build/
+/.gradle/
+/local.properties
+/.idea/

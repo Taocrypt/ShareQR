@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/mipmap-anydpi-v26_ic_launcher_foreground.png.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/mipmap-anydpi-v26/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/drawable-nodpi_ic_launcher_foreground.png.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/drawable-nodpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/drawable_ic_launcher.xml.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/layout_activity_share_qr.xml.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/layout/activity_share_qr.xml"
+    },
+    {
+        "merged": "com.crypttao.shareqr.app-debug-31:/layout_activity_share_qr.xml.flat",
+        "source": "com.crypttao.shareqr.app-main-33:/layout/activity_share_qr.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/drawable_bg_dialog_card.xml.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/drawable/bg_dialog_card.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/drawable-nodpi_ic_launcher_foreground.xml.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/drawable-nodpi/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-debug-31:/drawable-nodpi_ic_launcher_foreground_png.png.flat",
+        "source": "/home/user/.gradle/daemon/8.7/com.crypttao.shareqr.app-main-33:/drawable-nodpi/ic_launcher_foreground_png.png"
+    }
+]
