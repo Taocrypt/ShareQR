@@ -1,4 +1,4 @@
-# ShareQR（com.taocrypt.shareqr）
+# ShareQR
 
 一个轻量分享→二维码工具：从系统分享面板唤起，自动提取分享文本/链接，立即复制到系统剪贴板、生成二维码弹窗并可一键保存图片。基于 Material Design 3 视觉，Android 12+ 支持动态取色与背景高斯模糊。
 
